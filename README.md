@@ -1,4 +1,4 @@
-# 💼 DESAFIO: Análise de Vendas com Programação Funcional em Java
+# 💼 Análise de Vendas II com Programação Funcional em Java
 
 Este projeto em Java realiza a leitura e análise de um arquivo CSV contendo dados de vendas.
  O programa processa os dados usando recursos de **Programação Funcional** e **Streams**, agrupando e somando o total vendido por cada vendedor.
@@ -129,4 +129,3 @@ Desenvolvedor Back-end Java **Ronaldo Rodrigues**
 🔗 \[www.linkedin.com/in/ronaldo-rodr1gu3s]
 
 ---
-```
