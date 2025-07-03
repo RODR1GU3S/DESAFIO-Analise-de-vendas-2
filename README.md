@@ -1,6 +1,3 @@
----
-
-```markdown
 # 💼 DESAFIO: Análise de Vendas com Programação Funcional em Java
 
 Este projeto em Java realiza a leitura e análise de um arquivo CSV contendo dados de vendas.
