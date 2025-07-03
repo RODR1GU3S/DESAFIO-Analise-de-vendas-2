@@ -1,4 +1,4 @@
-# 💼 Análise de Vendas II com Programação Funcional em Java
+# 💼 Project Java Análise de Vendas II com Programação Funcional
 
 Este projeto em Java realiza a leitura e análise de um arquivo CSV contendo dados de vendas.
  O programa processa os dados usando recursos de **Programação Funcional** e **Streams**, agrupando e somando o total vendido por cada vendedor.
