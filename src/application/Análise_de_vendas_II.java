@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 
 import entities.Sale;
 
-public class DESAFIO_Análise_de_vendas_2 {
+public class Análise_de_vendas_II {
 
 	public static void main(String[] args) {
 		
