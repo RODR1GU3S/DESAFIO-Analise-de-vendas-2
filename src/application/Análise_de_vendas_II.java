@@ -56,24 +56,3 @@ public class Análise_de_vendas_II {
 		}
 	}
 }
-/*                                    >>>>>     Observação:     <<<<<
-
-	Poderia ter usado a Interface Map<K,V>, conforme a seguir:
-
-	 Para essa Primeira solicitação;
-	  'Depois de ler os dados, seu programa deverá mostrar o total vendido por cada vendedor conforme exemplo'
-
-	 Porém a Segunda solicitação;
-	  'Atenção: seu programa é que deve varrer toda a lista para encontrar os nomes dos vendedores.'
-
-
-try (Stream<String> lines = Files.lines(Path.of(path))) {
-
-            Map<String, Double> totalSaller = lines
-                .map(line -> line.split(","))
-                .collect(Collectors.groupingBy(
-                    partes -> partes[2], // Vendedor
-                    Collectors.summingDouble(partes -> Double.parseDouble(partes[4])) // Total
-                ));
-           ...
-*/
