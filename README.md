@@ -1,7 +1,8 @@
-# 💼 Project Java Análise de Vendas II com Programação Funcional
+# 💼 Project Java - *Programação Funcional* - Análise de Vendas
 
 Este projeto em Java realiza a leitura e análise de um arquivo CSV contendo dados de vendas.
-O programa processa os dados usando recursos de **Programação Funcional** e **Streams**, agrupando e somando o total vendido por cada vendedor.
+
+O programa processa os dados usando recursos de **Programação Funcional** & **Streams**, agrupando e somando o total vendido por cada vendedor.
 
 ## 📌 Objetivos
 
@@ -17,18 +18,13 @@ O programa processa os dados usando recursos de **Programação Funcional** e **
 O arquivo CSV deve conter dados no seguinte formato:
 
 ```
-
 month,year,seller,items,total
-
 ```
 
 **Exemplo:**
-
 ```
-
 1,2023,Ana,10,5000.0
 2,2023,Carlos,7,3200.0
-
 ```
 
 ---
@@ -67,15 +63,12 @@ month,year,seller,items,total
 ### Exemplo de saída:
 
 ```
-
-Entre o caminho do arquivo: G:\Eclipse\base-de-dados.csv
+Entre o caminho do arquivo: G:\Eclipse\Projects\dados.csv
 
 Total de vendas por vendedor:
 Ana - R\$ 5000.00
 Carlos - R\$ 3200.00
-
 ```
-
 ---
 
 ## 🧠 Possíveis Expansões
@@ -90,14 +83,12 @@ Carlos - R\$ 3200.00
 ## 📁 Estrutura do Projeto
 
 ```
-
 .
 ├── application
-│   └── DESAFIO\_Análise\_de\_vendas\_2.java
+│   └── DESAFIO\_Análise\_de\_vendas.java
 ├── entities
 │   └── Sale.java
-└── base-de-dados.csv
-
+└── dados.csv
 ```
 
 ---
@@ -124,7 +115,7 @@ Carlos - R\$ 3200.00
 ---
 ## 📬 Contato
 
-Desenvolvedor Back-end Java **Ronaldo Rodrigues**
+- Desenvolvedor Back-end Java - *Ronaldo Rodrigues*
 📧 \[[ronaldo.r.silva.78@gmail.com](mailto:ronaldo.r.silva.78@gmail.com)]
 🔗 \[www.linkedin.com/in/ronaldo-rodr1gu3s]
 
